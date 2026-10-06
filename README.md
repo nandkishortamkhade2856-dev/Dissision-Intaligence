@@ -1,2 +1,2 @@
-# Dissision-Intaligence
+# DissisionLens
 Project of submission
